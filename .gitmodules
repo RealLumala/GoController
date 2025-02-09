@@ -1,0 +1,6 @@
+[submodule "chainend/lib/forge-std"]
+	path = chainend/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "chainend/lib/openzeppelin-contracts"]
+	path = chainend/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
